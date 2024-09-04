@@ -1,31 +1,25 @@
-# Nombre del laboratorio 
+# Práctica 1. Ejercicio de definición de conceptos básicos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
-
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
-![diagrama1](../images/img1.png)
+- Buscar en la documentación oficial de Terraform toda la información necesaria de la plataforma, conceptos, proveedores y cualquier elemento asociado con Terraform.
 
 ## Duración aproximada:
-- xx minutos.
+- 45 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+
+| Documentación | Enlace |
+| --- | --- |
+| Terraform | [https://terraform.io/](https://www.terraform.io/) |
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+Paso 1. Ingresa a la página de [Terraform](https://terraform.io/) a través del enlace que se encuentra en la tabla de ayuda.
+
+Paso 2. Navegar por cada de una de las pestañas que se ven en la parte superior e indaga el tipo de información.
+
+![imagen 1](https://github.com/Global-K-SA-de-CV/CFG-TRFRM-AZ/blob/main/images/P1_img1.png)
 
 Paso 3. <!-- Añadir instrucción -->
 
