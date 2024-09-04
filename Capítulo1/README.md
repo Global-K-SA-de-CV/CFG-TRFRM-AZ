@@ -21,15 +21,12 @@ Paso 2. Navegar por cada de una de las pestañas que se ven en la parte superior
 
 ![imagen 1](https://github.com/Global-K-SA-de-CV/CFG-TRFRM-AZ/blob/main/images/P1_img1.png)
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 3. Presta especial atención en la seccion de **Registry**.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 4. Con base en la investigación, responde a las siguientes preguntas:
 
-Paso 2. <!-- Añadir instrucción -->
+- ¿Qué información te pareció de mayor utilidad para usar en tus actividades cotidianas?
+- ¿Por qué?
+- ¿Hay alguna información que no se encuentre en la página  y que tú estés buscando?
+- ¿Conoces alguna otra diferencia?
 
-Paso 3. <!-- Añadir instrucción -->
-
-### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
